@@ -1,0 +1,17 @@
+.DS_Store
+.AppleDouble
+.env
+.env.*
+__pycache__/
+*.py[cod]
+node_modules/
+*.log
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.avi
+*.mp3
+*.wav
+*.zip
+*.tar.gz
