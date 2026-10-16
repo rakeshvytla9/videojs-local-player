@@ -38,4 +38,3 @@ Selected videos are loaded using browser blob URLs. Playback support depends on 
 - `lib/` — original bundled player libraries
 - `THIRD_PARTY_NOTICES.md` and `licenses/` — notices for bundled libraries
 
-The original player, libraries, and server script are preserved unchanged. Chrome extension packaging, background/content scripts, popup, and extension icons have been removed. Personal videos and machine-specific launchers are not part of this repository.
